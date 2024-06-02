@@ -64,7 +64,7 @@ Examine the progression of sales in the electric vehicle (EV) industry over time
 
 Explore the interactive plot to visualize data dynamically:
 
-[Interactive Plot](path/to/interactive_plot.html)
+[Interactive Plot](interactive_plot.html)
 
 ## Main Focus of Data Analysis
 
