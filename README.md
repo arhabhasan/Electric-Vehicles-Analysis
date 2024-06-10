@@ -58,7 +58,7 @@ Present statistical insights on electric vehicle sales, market share, and classi
 
 Examine the progression of sales in the electric vehicle (EV) industry over time and investigate the correlation between CO2 emissions and the sales of EVs throughout the same period.
 
-[Line Plot of EV Sales and CO2 Emissions](https://github.com/arhabhasan/Electric-Vehicles-Analysis/blob/main/line_plot_image.png)
+[Line Plot of EV Sales and CO2 Emissions](https://github.com/arhabhasan/Electric-Vehicles-Analysis/blob/main/dynamic_EV_map.html)
 
 ### Interactive Plot
 
